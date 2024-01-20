@@ -6,6 +6,15 @@ Organize files by extension.
 
 ## 1. Download the executable file from GitHub.
 
+Downloading from [GitHub](https://github.com/Daiki48/extension-sorter).
+
+Press tag.
+
+![tag](./screenshot/05.png)
+
+Press **extension-sorter.exe**.
+
+![download](./screenshot/06.png)
 
 ## 2. Place extension-sorter.exe in the directory where you want to organize your files.
 
